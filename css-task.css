@@ -1,0 +1,31 @@
+.container{
+    max-width: 500px;
+    width: 600px;
+    margin:auto;
+    text-align: center;
+}
+#center{
+    max-width: 200px;
+    width: 200px;
+    margin: 30px;
+    border: 10px solid sienna;
+    padding: 10px;
+    background: url(../Prakash.jpg);
+    background-size: cover;
+}
+#btn2{
+    max-width: 200px;
+    width: 600px;
+    margin: 30px;
+    border: 10px solid seagreen;
+    padding:10px;
+    background-color: blanchedalmond;
+}
+#btn3{
+    max-width: 200px;
+    width: 200px;
+    margin: 30px;
+    border: 10px solid rgb(112, 144, 142);
+    padding:10px;
+    background-color: blue;
+}
